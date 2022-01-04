@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="197" height="197" viewBox="0 0 197 197">
+  <defs>
+    <filter id="Rectangle_1554" x="0" y="0" width="197" height="197" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="11" result="blur"/>
+      <feFlood flood-color="#00966b"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_9374" data-name="Group 9374" transform="translate(-211 -408)">
+    <g transform="matrix(1, 0, 0, 1, 211, 408)" filter="url(#Rectangle_1554)">
+      <rect id="Rectangle_1554-2" data-name="Rectangle 1554" width="131" height="131" rx="23" transform="translate(33 30)" fill="#00966b"/>
+    </g>
+    <g id="big-data-svgrepo-com" transform="translate(280 474)">
+      <g id="Group_945" data-name="Group 945">
+        <path id="Path_3244" data-name="Path 3244" d="M59,14H56V10a.945.945,0,0,0-1-1H28V1a.945.945,0,0,0-1-1H1A.945.945,0,0,0,0,1V60H2V2H26V14H8v2H58V60h2V15A.945.945,0,0,0,59,14ZM28,14V11H54v3Z" fill="#fff"/>
+        <path id="Path_3245" data-name="Path 3245" d="M51,39a4.079,4.079,0,0,0-3.9,3H42V26.9A4.012,4.012,0,1,0,37,23a4.079,4.079,0,0,0,3,3.9V42H31V34.9A4.012,4.012,0,1,0,26,31a4.079,4.079,0,0,0,3,3.9V50H18V36.9A4.012,4.012,0,1,0,13,33a4.079,4.079,0,0,0,3,3.9V50H12.9A4.012,4.012,0,1,0,9,55a4.079,4.079,0,0,0,3.9-3H29v8h2V44H47.1A4.012,4.012,0,1,0,51,39ZM39,23a2,2,0,1,1,2,2A2.006,2.006,0,0,1,39,23ZM15,33a2,2,0,1,1,2,2A2.006,2.006,0,0,1,15,33ZM9,53a2,2,0,1,1,2-2A2.006,2.006,0,0,1,9,53ZM28,31a2,2,0,1,1,2,2A2.006,2.006,0,0,1,28,31ZM51,45a2,2,0,1,1,2-2A2.006,2.006,0,0,1,51,45Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
